@@ -1,0 +1,20 @@
+Dimension,Segment,Customers,Churned,AvgMonthlyCharge,ChurnRatePct
+Contract,Month-to-month,3875,1655,66.4,42.71
+Contract,One year,1473,166,65.05,11.27
+Contract,Two year,1695,48,60.77,2.83
+TenureGroup,0-12 mo,2186,1037,56.1,47.44
+TenureGroup,13-24 mo,1024,294,61.36,28.71
+TenureGroup,25-48 mo,1594,325,65.93,20.39
+TenureGroup,49-60 mo,832,120,70.55,14.42
+TenureGroup,61-72 mo,1407,93,75.95,6.61
+InternetService,DSL,2421,459,58.1,18.96
+InternetService,Fiber optic,3096,1297,91.5,41.89
+InternetService,No,1526,113,21.08,7.4
+PaymentMethod,Bank transfer (automatic),1544,258,67.19,16.71
+PaymentMethod,Credit card (automatic),1522,232,66.51,15.24
+PaymentMethod,Electronic check,2365,1071,76.26,45.29
+PaymentMethod,Mailed check,1612,308,43.92,19.11
+TechSupport,No,4999,1559,58.25,31.19
+TechSupport,Yes,2044,310,80.68,15.17
+SeniorCitizen,No,5901,1393,61.85,23.61
+SeniorCitizen,Yes,1142,476,79.82,41.68

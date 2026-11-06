@@ -1,0 +1,8 @@
+test,type,statistic,p_value,effect_size,significant
+H1: Contract type,Chi-square,1184.6,5.86e-258,Cramer's V = 0.41,True
+H2: Internet service,Chi-square,732.3,9.57e-160,Cramer's V = 0.32,True
+H3: Payment method,Chi-square,648.1,3.68e-140,Cramer's V = 0.30,True
+H4: Tech support (internet customers),Chi-square,414.3,4.35e-92,Cramer's V = 0.27,True
+H5: Gender (control),Chi-square,0.5,4.87e-01,Cramer's V = 0.01,False
+H6: Monthly charges (churned vs retained),Welch t-test,18.4,8.59e-73,Cohen's d = 0.47,True
+H7: Tenure (churned vs retained),Welch t-test,-34.8,1.20e-232,Cohen's d = -0.89,True
